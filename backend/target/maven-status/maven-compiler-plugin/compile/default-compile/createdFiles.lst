@@ -1,0 +1,9 @@
+com\collegeclub\event\service\EventService.class
+com\collegeclub\event\controller\RegistrationController.class
+com\collegeclub\event\EventApplication.class
+com\collegeclub\event\service\RegistrationService.class
+com\collegeclub\event\entity\Registration.class
+com\collegeclub\event\repository\EventRepository.class
+com\collegeclub\event\controller\EventController.class
+com\collegeclub\event\entity\Event.class
+com\collegeclub\event\repository\RegistrationRepository.class
